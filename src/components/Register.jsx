@@ -131,7 +131,7 @@ const Register = () => {
             color: '#2d3436',
             padding: 0,
             background: 'transparent'
-          }}>Do you have previous experience?</label>
+          }}>Are you an Agency?</label>
           <div className="radio-group">
             <div className="radio-option">
               <input
